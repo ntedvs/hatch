@@ -5,7 +5,7 @@ A dead man's switch for unpaid client websites. Include the script, set a date â
 ## Usage
 
 ```html
-<script src="https://hatch.ntedvs.com/hatch.js?date=2025-01-01"></script>
+<script src="https://hatch.ntedvs.com/hatch.js?date=2026-01-01"></script>
 ```
 
 ## Parameters
@@ -17,4 +17,4 @@ A dead man's switch for unpaid client websites. Include the script, set a date â
 
 ## Example
 
-With `?date=2025-01-01&percentage=2`, the site loses 2% opacity per day starting Jan 1, 2025. After 50 days it's fully invisible.
+With `?date=2026-01-01&percentage=2`, the site loses 2% opacity per day starting Jan 1, 2026. After 50 days it's fully invisible.
